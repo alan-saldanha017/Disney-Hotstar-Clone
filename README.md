@@ -1,3 +1,8 @@
+## Demo Link 
+https://hotstar-efcaa.web.app
+
+<img src="https://github.com/alan-saldanha017/Disney-Hotstar-Clone/blob/master/home-page%20Screen%20Capture.PNG"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
